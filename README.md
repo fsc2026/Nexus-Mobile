@@ -1,2 +1,0 @@
-# Nexus-Mobile
-App Mobile
